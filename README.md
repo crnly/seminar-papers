@@ -9,7 +9,7 @@ Each entry covers a topic I found particularly interesting, with the final docum
 
 | Semester | Topic | Course | Materials |
 |---|---|---|---|
-| WS 26/27 | [Protecting AI Training Data as Trade Secrets](2026-ws-ki-recht-training-data-trade-secrets/) | KI-Grundlagen (KI-Recht) | [Paper](2026-ws-ki-recht-training-data-trade-secrets/paper.pdf) |
+| WS 26/27 | [Protecting AI Training Data as Trade Secrets](2026-ws-ki-recht-trade-secrets/) | KI-Grundlagen (KI-Recht) | [Paper](2026-ws-ki-recht-trade-secrets/paper.pdf) |
 
 <!--
 Add a row for each new entry, e.g.:
